@@ -20,6 +20,32 @@ img {
     max-width: 100%;
     display: block;
 }
+/*style rules for mobile viewport*/
+h1{
+  font-family: "Emblema One", system-ui;
+}
+
+
+h3{
+  font-family: "Lora", serif;
+}
+
+
+/*style rules to show mobile class and hide tab-desk class*/
+tab-desk{
+    display:block
+}
+
+/*style rules for header area*/
+h3{
+    padding:2%;
+    text-align:center;
+}
+h3{
+   padding:2%;
+    text-align:center;
+}
+
 
 /* Style rules for navigation area */
 nav {
@@ -46,10 +72,13 @@ nav li a {
     text-decoration: none;
 }
 
+
+
+
 /* Style rules for main content */
 main {
     padding: 2%;
-    font-family: Verdana, Arial, sans-serif;
+    font-family: "Lora", serif;
 }
 
 main p {
